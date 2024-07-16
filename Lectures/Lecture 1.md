@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3231672c-df9f-40ee-88d0-3f86b280ae04)**Some basic Info about CS courses provided by StandFord:**
+**Some basic Info about CS courses provided by StandFord:**
 
 -> ![image](https://github.com/user-attachments/assets/358dfc85-a1bd-4f15-9aa7-58b3adc8b0b9)
 
