@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/903246e3-0d5d-4aba-89c1-e78f030e12c1)**This is just a Mathematics course for people who have no idea about some topics in Machine Learning (This is not taught in CS229)
+**This is just a Mathematics course for people who have no idea about some topics in Machine Learning (This is not taught in CS229)
 This will give us foundation for Machine Learning Courses**
 
 ![image](https://github.com/user-attachments/assets/2bd2ff1d-ed46-4c60-ba2f-1c344ae1e210)
