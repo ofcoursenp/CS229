@@ -76,4 +76,11 @@ Distance = (A*B) / ||B||
 
 These formulas help calculate the projection distance and the dot product between vectors.
 
+# **Unit Vector**
+
+![image](https://github.com/user-attachments/assets/08a30ec5-6064-4722-8041-d3839ce06587)
+
+![image](https://github.com/user-attachments/assets/4ceeca0d-c122-4675-b040-3ada6905b435)
+
+![image](https://github.com/user-attachments/assets/65fa29fe-ee0b-45ec-8e1a-fa82626440de)
 
