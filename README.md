@@ -8,6 +8,7 @@ Click Here for playlist -> <a href="https://www.youtube.com/playlist?list=PLoROM
 This repositorie contains all the notes and images of CS229 Machine Learning Course which is taught by Andrew NG
 
 
--> Lecture 1:  <a href="https://github.com/ofcoursenp/Stanford-CS229-Machine-Learning-Course/blob/main/Lectures/Lecture%201.md">Click here</a>
+-> Direct Lectures <a href="https://github.com/ofcoursenp/Stanford-CS229-Machine-Learning-Course/tree/main/Lectures">Click here</a>
+-> For Basic Math <a href="https://github.com/ofcoursenp/Stanford-CS229-Machine-Learning-Course/tree/main/Mathematics">Click here</a>
 
 
