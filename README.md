@@ -9,6 +9,7 @@ This repositorie contains all the notes and images of CS229 Machine Learning Cou
 
 
 -> Direct Lectures <a href="https://github.com/ofcoursenp/Stanford-CS229-Machine-Learning-Course/tree/main/Lectures">Click here</a>
+
 -> For Basic Math <a href="https://github.com/ofcoursenp/Stanford-CS229-Machine-Learning-Course/tree/main/Mathematics">Click here</a>
 
 
