@@ -27,3 +27,21 @@ Here, ( A_i ) represents an individual value (either height or weight).
 **Purpose:**
 
 * This formula is used for normalizing data within a specific range (usually between 0 and 1). Normalization is common in statistical analysis and machine learning tasks.
+
+# **Column Standardization**
+
+![image](https://github.com/user-attachments/assets/4e27130f-638e-445e-8012-16d89d3f9678)
+
+**Scaling by Standard Deviation:**
+
+Divide each mean-centered value by the standard deviation of the feature.
+
+This scales the data to have a standard deviation of 1.
+
+Mathematically, the standardized value Ai​ becomes : $$A_i = \frac{A - \overline{A}}{\text{Std}}$$
+
+where Std represents the standard deviation of feature A.
+
+# **Left one is after Column Standardization and Right one is before Column Standardization**
+
+![image](https://github.com/user-attachments/assets/dba5e934-4c62-4d0c-8cc6-a1a776b0d4e7)
