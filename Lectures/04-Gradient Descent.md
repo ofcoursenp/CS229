@@ -51,8 +51,78 @@ The image you provided illustrates this concept visually. The multicolored surfa
 ![image](https://github.com/user-attachments/assets/f9a31305-23e4-4371-8640-57d12a79e16a)
 
 
-**Converting it into 2-D form , plotting a graph of θ1 and θ2**
+#**Converting it into 2-D form , plotting a graph of θ1 and θ2**
 
 ![image](https://github.com/user-attachments/assets/3890253a-93a6-4ebb-b646-294c8e02afe8)
 
+#**Going inside the Deep point of the graph**
+
+![image](https://github.com/user-attachments/assets/9435f3ed-b050-4b28-a499-519b67520ef1)
+
+## Gradient Descent Update Rule
+
+The gradient descent update rule for parameter θ_j is given by:
+
+$$
+\theta_j := \theta_j - \alpha \frac{\partial}{\partial \theta_j} J(\theta_0, \theta_1)
+$$
+
+Where:
+- **θ_j**: Parameter being updated
+- **α**: Learning rate
+- **∂/∂θ_j**: Partial derivative with respect to θ_j
+- **J(θ_0, θ_1)**: Cost function
+
+
+#How learning rate effects on gradient descent
+![image](https://github.com/user-attachments/assets/d41fd5ce-25b6-4720-8887-2c223fb91e22)
+
+## Learning Rate Illustration
+
+!Learning Rate Illustration
+
+### Left Graph: When Learning Rate is too Small
+- Shows a green U-shaped curve with red dots closely following along, indicating slow convergence.
+
+### Right Graph: When Learning Rate is too Large
+- Displays a similar green U-shaped curve with red dots scattered widely, suggesting inefficient convergence due to overly large steps.
+
+# How to know where to move?
+![image](https://github.com/user-attachments/assets/ec6f5b36-3603-4faf-90e3-3e17f24e0848)
+
+## Optimization Graphs
+
+### Left Graph
+- **Equation:** $$\theta_j = \theta_i - \alpha a \text{ (Positive Number)}$$
+- Demonstrates how subtracting a positive number (αa) from an initial value (θi) results in moving left along 'θ1'.
+
+### Right Graph
+- **Equation:** $$\theta_j = \theta_i - \alpha a \text{ (Negative Number)}$$
+- Shows how subtracting a negative number (αa) from an initial value (θi) results in moving right along 'θ1'.
+
+# Final understanding
+
+## Gradient Descent and Derivatives
+
+In gradient descent, the derivative of the cost function is crucial for updating the model's parameters. Here's a brief overview:
+
+1. **Cost Function**: Measures the error between predicted and actual values.
+2. **Derivative (Gradient)**: Indicates the slope of the cost function, guiding the direction of parameter updates.
+3. **Update Rule**: Parameters are updated to minimize the cost function.
+
+### Steps:
+1. **Calculate the Gradient**: Compute the derivative of the cost function with respect to each parameter.
+2. **Update Parameters**: Adjust the parameters using the formula:
+
+$$
+\theta_j := \theta_j - \alpha \frac{\partial}{\partial \theta_j} J(\theta)
+$$
+
+Where:
+- **θ_j**: Parameter being updated
+- **α**: Learning rate
+- **∂/∂θ_j**: Partial derivative with respect to θ_j
+- **J(θ)**: Cost function
+
+**Note : No need for mathematic calculations for now because all the calculations is done by computer itself**
 
