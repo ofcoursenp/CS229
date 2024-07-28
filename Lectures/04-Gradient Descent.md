@@ -74,7 +74,7 @@ Where:
 - **J(θ_0, θ_1)**: Cost function
 
 
-#How learning rate effects on gradient descent
+# How learning rate effects on gradient descent
 ![image](https://github.com/user-attachments/assets/d41fd5ce-25b6-4720-8887-2c223fb91e22)
 
 ## Learning Rate Illustration
