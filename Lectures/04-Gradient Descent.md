@@ -51,7 +51,7 @@ The image you provided illustrates this concept visually. The multicolored surfa
 ![image](https://github.com/user-attachments/assets/f9a31305-23e4-4371-8640-57d12a79e16a)
 
 
-#**Converting it into 2-D form , plotting a graph of θ1 and θ2**
+# **Converting it into 2-D form , plotting a graph of θ1 and θ2**
 
 ![image](https://github.com/user-attachments/assets/3890253a-93a6-4ebb-b646-294c8e02afe8)
 
